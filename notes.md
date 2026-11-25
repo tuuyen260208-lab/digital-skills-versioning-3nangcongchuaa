@@ -24,3 +24,9 @@
 
 \- Tuần 2: Sản xuất mẫu thử nghiệm (50 túi) và thu thập phản hồi.
 
+\## 4. Kết quả thử nghiệm \& Đánh giá (Nhánh revise-report)
+
+\- \*\*Mẫu được ưa chuộng nhất:\*\* Túi thơm Oải Hương (SP03) đạt điểm hài lòng cao nhất (4.8/5), theo sau là Trà Xanh (4.6/5).
+
+\- \*\*Đề xuất cải tiến:\*\* Bổ sung lớp lót chống ẩm bên trong túi vải tái chế để giữ hương thảo mộc bền hơn từ 3 lên 5 tuần.
+

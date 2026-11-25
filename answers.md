@@ -1,0 +1,2 @@
+Commit là thao tác lưu lại một ảnh chụp trạng thái thay đổi của các tệp trong dự án ở máy tính kèm lời ghi chú để dễ lần lại lịch sử. Branch (nhánh) là một dòng phát triển tách biệt giúp bạn chỉnh sửa hoặc thử nghiệm tính năng/nội dung (như nhánh revise-report) mà không làm ảnh hưởng trực tiếp đến nhánh chính (main). Push là thao tác đẩy các commit và nhánh từ máy tính của bạn lên kho lưu trữ trên GitHub để lưu trên mạng hoặc chia sẻ. Ngược lại, Pull là thao tác tải các thay đổi mới nhất từ GitHub về máy tính để đồng bộ bản làm việc cục bộ với bản trên web.
+
